@@ -63,5 +63,5 @@ UV-индекс: 7
 
 ```bash
 git clone https://github.com/ydzori/Weather_diary.git
-cd final_certification
+cd Weather_diary
 python app.py
