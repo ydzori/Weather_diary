@@ -62,6 +62,6 @@ UV-индекс: 7
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/ydzori/final_certification.git
+git clone https://github.com/ydzori/Weather_diary.git
 cd final_certification
 python app.py
